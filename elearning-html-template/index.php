@@ -65,7 +65,7 @@
                         <a href="testimonial.html" class="dropdown-item">Testimonial</a>
                     </div>
                 </div>
-                <a href="contact.html" class="nav-item nav-link">Contact</a>
+                <a href="contact.php" class="nav-item nav-link">Contact</a>
             </div>
             <a href="verify.php" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">Verify<i class="fa fa-arrow-right ms-3"></i></a>
         </div>
